@@ -38,3 +38,5 @@ You can read some of our past works [here](franklindao.substack.com)
 
 # Budget
 - need budget for chain link analysis
+- 4 person team, at $55/hr for ~210 hours.
+- Requesting $12,000 
