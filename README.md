@@ -8,7 +8,6 @@ As perceptions towards big tech and financial movements in China continue to cha
 # Objectives
 Through this project, we aim to deliver high-quality analyses of historical context and case studies based in Asian countries that help enable data scientists, researchers, and all community members to better understand the limitations and opportunities that Web3 technologies face in frontiers outside of the traditional Western system. The intents of our research are:
 
-- To provide understanding of how to encourage productive, sustainable adoption of blockchain technology within Asian countries, within divergent political, economic, and social contexts.
 - To raise awareness and foster meaningful discussion within the community regarding richness of perspective when considering foreign governments and financial systems and a more inclusive approach to integrating Web3 technologies when approaching regions that differ from traditional Western financial systems.
 - To synthesize the history of blockchain adoption and previous financial movements in China, Hong Kong, and Singapore and identify novel insights about how to drive meaningful crypto usage in Asian economies. 
 - To discover possible misunderstandings about cryptocurrency that the ecosystem and governments should acknowledge and be educated on, to develop more knowledge-driven perceptions.
