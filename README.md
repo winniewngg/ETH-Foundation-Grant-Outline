@@ -64,6 +64,5 @@ March 15th: Synthesis of final paper, completing analysis of sources and compili
 March 19th: Final project done. 
 
 # Budget
-- need budget for chain link analysis
 - 4 person team, at $55/hr for ~210 hours.
-- Requesting $12,000 
+- Requesting **$12,000**
